@@ -139,7 +139,7 @@ body {
 .landing {
     background-image: url(../Image/istockphoto-1129816005-612x612.jpg);
     background-size: cover;
-    height: calc(100vh - 64px);
+    height: calc(100vh - 51px);
     position: relative;
     z-index: -1;
 }
